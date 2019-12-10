@@ -1,4 +1,4 @@
-<img src="feed-icon.svg" align=left style="zoom:25%;" />
+<img src="feed-icon.svg" align=left style="zoom:20%;" />
 
 ## RSS Feed
 
