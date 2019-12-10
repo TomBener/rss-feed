@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>RSS</title>
+</head>
+<body>
+<outline htmlUrl="https://sspai.com/topic/247" xmlUrl="https://rsshub.app/sspai/topic/247" text="2018 年度征文入围文章" title="2018 年度征文入围文章" type="rss" />
+<outline text="少数派专栏-信息获取与知识整理" htmlUrl="https://sspai.com/column/110" type="rss" xmlUrl="https://rsshub.app/sspai/column/110" title="少数派专栏-信息获取与知识整理" />
+<outline title="少数派专栏-我和 App 的故事" type="rss" htmlUrl="https://sspai.com/column/159" xmlUrl="https://rsshub.app/sspai/column/159" text="少数派专栏-我和 App 的故事" />
+<outline xmlUrl="https://rsshub.app/sspai/column/104" htmlUrl="https://sspai.com/column/104" type="rss" text="少数派专栏-提升效率之路" title="少数派专栏-提升效率之路" />
+<outline xmlUrl="https://rsshub.app/sspai/topic/190" title="少数派专题-GIF 还能这么玩" text="少数派专题-GIF 还能这么玩" type="rss" htmlUrl="https://sspai.com/topic/190" />
+<outline type="rss" xmlUrl="https://rsshub.app/sspai/topic/181" title="少数派专题-Homebrew，Mac 应用管家" htmlUrl="https://sspai.com/topic/181" text="少数派专题-Homebrew，Mac 应用管家" />
+<outline xmlUrl="https://rsshub.app/sspai/topic/158" text="少数派专题-iPad 学术指南" type="rss" title="少数派专题-iPad 学术指南" htmlUrl="https://sspai.com/topic/158" />
+<outline htmlUrl="https://sspai.com/topic/159" xmlUrl="https://rsshub.app/sspai/topic/159" text="少数派专题-LaunchBar，加速你的 Mac" title="少数派专题-LaunchBar，加速你的 Mac" type="rss" />
+<outline xmlUrl="https://rsshub.app/sspai/topic/236" text="少数派专题-「薅羊毛」的独门绝技" title="少数派专题-「薅羊毛」的独门绝技" type="rss" htmlUrl="https://sspai.com/topic/236" />
+<outline xmlUrl="https://rsshub.app/sspai/topic/262" title="少数派专题-习惯养成，从每天打卡开始" text="少数派专题-习惯养成，从每天打卡开始" htmlUrl="https://sspai.com/topic/262" type="rss" />
+<outline text="少数派专题-在 Mac 上处理图片，你应该掌握这些 App 和技巧" htmlUrl="https://sspai.com/topic/263" xmlUrl="https://rsshub.app/sspai/topic/263" title="少数派专题-在 Mac 上处理图片，你应该掌握这些 App 和技巧" type="rss" />
+<outline htmlUrl="https://sspai.com/topic/252" type="rss" xmlUrl="https://rsshub.app/sspai/topic/252" text="少数派专题-如何成为读书达人" title="少数派专题-如何成为读书达人" />
+<outline type="rss" xmlUrl="https://rsshub.app/sspai/topic/267" title="少数派专题-如何玩转 Notion" htmlUrl="https://sspai.com/topic/267" text="少数派专题-如何玩转 Notion" />
+<outline xmlUrl="https://rsshub.app/sspai/topic/146" text="少数派专题-如何用好 Twitter" title="少数派专题-如何用好 Twitter" type="rss" htmlUrl="https://sspai.com/topic/146" />
+<outline xmlUrl="https://rsshub.app/sspai/topic/163" type="rss" title="少数派专题-开学季" text="少数派专题-开学季" htmlUrl="https://sspai.com/topic/163" />
+<outline htmlUrl="https://sspai.com/topic/255" title="少数派专题-数字生活改造家——我的房间改造计划" text="少数派专题-数字生活改造家——我的房间改造计划" xmlUrl="https://rsshub.app/sspai/topic/255" type="rss" />
+<outline type="rss" xmlUrl="https://rsshub.app/sspai/topic/175" title="少数派专题-用这些好网站充实你的收藏夹" text="少数派专题-用这些好网站充实你的收藏夹" htmlUrl="https://sspai.com/topic/175" />
+<outline text="少数派专题-记好数字笔记，有这些 App 就够了" type="rss" htmlUrl="https://sspai.com/topic/246" xmlUrl="https://rsshub.app/sspai/topic/246" title="少数派专题-记好数字笔记，有这些 App 就够了" />
+<outline htmlUrl="https://sspai.com/topic/183" text="少数派专题-轻松玩转 Mac 命令" xmlUrl="https://rsshub.app/sspai/topic/183" type="rss" title="少数派专题-轻松玩转 Mac 命令" />
+<outline title="少数派专题-高效获取信息，从这些 RSS 工具和技巧开始" htmlUrl="https://sspai.com/topic/265" text="少数派专题-高效获取信息，从这些 RSS 工具和技巧开始" xmlUrl="https://rsshub.app/sspai/topic/265" type="rss" />
+<outline htmlUrl="https://sspai.com/topics" type="rss" xmlUrl="https://rsshub.app/sspai/topics" title="少数派专题广场更新推送" text="少数派专题广场更新推送" />
+<outline xmlUrl="https://rsshub.app/sspai/series" text="最新上架付费专栏" title="最新上架付费专栏" type="rss" htmlUrl="https://sspai.com/series" />
+</body>
+</opml>

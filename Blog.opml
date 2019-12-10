@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>博客</title>
+</head>
+<body>
+<outline htmlUrl="https://www.appsntips.com/home/" xmlUrl="https://www.appsntips.com/home/atom.xml" text="Appsntips - Editorials and Reviews" type="rss" title="Appsntips - Editorials and Reviews" />
+<outline htmlUrl="https://geekplux.com" xmlUrl="https://geekplux.com/atom.xml" type="rss" title="GeekPlux" text="GeekPlux" />
+<outline type="rss" text="Kitten 的时间胶囊" title="Kitten 的时间胶囊" htmlUrl="http://kittenyang.com" xmlUrl="http://kittenyang.com/rss" />
+<outline type="rss" title="Neverland" xmlUrl="https://type.cyhsu.xyz/feed/" text="Neverland" htmlUrl="https://type.cyhsu.xyz" />
+<outline type="rss" htmlUrl="/rss.xml" title="Randy's Blog" xmlUrl="https://lutaonan.com/rss.xml" text="Randy's Blog" />
+<outline type="rss" title="SamWanng" htmlUrl="https://samwanng.com/feed.xml" text="SamWanng" xmlUrl="https://samwanng.com/feed.xml" />
+<outline htmlUrl="https://TomBener.github.io/" type="rss" title="TomBen" text="TomBen" xmlUrl="https://tomben.me/atom.xml" />
+<outline xmlUrl="https://yihui.name/en/index.xml" text="Yihui's Blog on Yihui Xie | 谢益辉" title="Yihui's Blog on Yihui Xie | 谢益辉" htmlUrl="https://yihui.name/en/" type="rss" />
+<outline title="中文博客 on Yihui Xie | 谢益辉" type="rss" text="中文博客 on Yihui Xie | 谢益辉" htmlUrl="https://yihui.name/cn/" xmlUrl="https://yihui.name/cn/index.xml" />
+<outline type="rss" title="呆呆是槑" text="呆呆是槑" htmlUrl="https://chenmei.xyz" xmlUrl="https://chenmei.xyz/atom.xml" />
+<outline type="rss" text="城堡阅读周刊" xmlUrl="https://chengbao.bitcron.com/feed" title="城堡阅读周刊" htmlUrl="http://chengbao.bitcron.com/" />
+<outline type="rss" title="始终" htmlUrl="/atom.xml" text="始终" xmlUrl="https://liam.page/atom.xml" />
+<outline xmlUrl="https://immmmm.com/feed" title="林小沐" type="rss" text="林小沐" htmlUrl="https://immmmm.com/" />
+<outline type="rss" htmlUrl="/atom.xml" title="码力全开" xmlUrl="https://www.maliquankai.com/atom.xml" text="码力全开" />
+<outline title="西秦公子" type="rss" htmlUrl="https://www.ixiqin.com" xmlUrl="https://www.ixiqin.com/feed" text="西秦公子" />
+<outline type="rss" text="阅微堂" htmlUrl="https://zhiqiang.org/" xmlUrl="https://zhiqiang.org/feed.xml" title="阅微堂" />
+<outline title="😎 DearTanker's Blog" type="rss" htmlUrl="https://blog.deartanker.com" text="😎 DearTanker's Blog" xmlUrl="https://blog.deartanker.com/feed" />
+</body>
+</opml>
