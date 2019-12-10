@@ -1,4 +1,6 @@
-# RSS Feed <img src="feed-icon.svg" style="zoom:25%;" />
+<img src="feed-icon.svg" align=left style="zoom:25%;" />
+
+## RSS Feed
 
 My personal RSS feed.
 
